@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 0.5.1
+
+* CLI
+    * Add option to disable progress bar printing.
+
+
 ## 0.5.0
 
 * New features
