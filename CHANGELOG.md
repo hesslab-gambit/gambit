@@ -4,7 +4,8 @@
 ## 0.5.1
 
 * CLI
-    * Add option to disable progress bar printing.
+	* Strip directory and extension from input file IDs.
+	* Add option to disable progress bar printing.
 
 
 ## 0.5.0
