@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.5.1
+## 1.0.0
 
 * New features
 	* `tree` command for generating hierarchical clustering trees from distance matrices.
