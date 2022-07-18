@@ -8,7 +8,7 @@ GAMBIT (Genomic Approximation Method for Bacterial Identification and Tracking) 
 It uses an extremely efficient genomic distance metric along with a curated database of approximately 50,000 reference genomes (derived from NCBI
 [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/)) to identify unknown bacterial genomes within seconds.
 
-Developed by Jared Lumpe in collaboration with the David Hess lab at Santa Clara University.
+Developed by Jared Lumpe in collaboration with the Nevada State Public Health Lab and the David Hess lab at Santa Clara University.
 Preprint available [here](https://www.biorxiv.org/content/10.1101/2022.06.14.496173v1).
 
 See the [documentation](https://hesslab-gambit.readthedocs.io/en/stable) for more
@@ -44,5 +44,4 @@ See the documentation for additional details on the command line interface and d
 
 ## Contact
 
-For questions regarding usage of the software itself, please contact Jared Lumpe at [mjlumpe@gmail.com](mailto:mjlumpe@gmail.com).
-All other questions should be directed to David Hess at [dchess@scu.edu](mailto:dchess@scu.edu).
+Please contact Jared Lumpe at [mjlumpe@gmail.com](mailto:mjlumpe@gmail.com).
