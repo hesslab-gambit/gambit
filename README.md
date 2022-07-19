@@ -1,6 +1,6 @@
 # GAMBIT
 
-[![Build Status](https://github.com/hesslab-gambit/gambit/actions/workflows/ci.yml/badge.svg)](https://github.com/hesslab-gambit/gambit/actions/workflows/ci.yml)
+[![Build Status](https://github.com/jlumpe/gambit/actions/workflows/ci.yml/badge.svg)](https://github.com/jlumpe/gambit/actions/workflows/ci.yml)
 [![Documentation Status](https://readthedocs.org/projects/hesslab-gambit/badge/?version=latest)](https://hesslab-gambit.readthedocs.io/en/latest/?badge=latest)
 [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/hesslab-gambit/README.html)
 
